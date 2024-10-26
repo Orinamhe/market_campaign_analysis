@@ -45,13 +45,14 @@ _**City**_
 Birmingham achieved the highest CVR and ROI despite having the fewest impressions, clicks, and engagements, indicating that lower investment can yield better outcomes, while London, despite its largest financial input, recorded the lowest ROI and CVR. The varying investment across cities likely reflects population differences, suggesting that a tailored campaign addressing London’s specific audience needs could improve conversion rates, and considering regional factors like cultural preferences and economic conditions may further enhance campaign effectiveness in different cities.
 
 _**Device**_
+
 Understanding the devices used to view ads is essential for developing effective marketing strategies, as tailoring ads to specific devices ensures that products and services remain visible to consumers. While mobile ads generate more impressions, clicks, and engagement due to widespread mobile phone usage, desktop ads demonstrate a significantly better Conversion Rate (CVR) and Return on Investment (ROI), suggesting that despite mobile's ability to drive traffic, desktop platforms are more effective for conversions, indicating a need to allocate more budget toward desktop ads for campaigns focused on high conversion rates and stronger returns.
 
 _**Ad**_
 
-Collection ads generated more impressions and clicks due to their visually appealing format, resulting in lower CPC and higher CTR; however, discount ads provided nearly 200% better ROI and higher CVR, indicating their greater profitability. To optimize performance, it’s advisable to combine collection ads with discount offers, enhancing awareness while driving immediate action, and to allocate more budget toward discount campaigns, especially on platforms like Pinterest, where users are more likely to convert.
+Collection ads generated more impressions and clicks due to their visually appealing format, resulting in lower CPC and higher CTR; however, discount ads provided nearly 200% better ROI and higher CVR, indicating their greater profitability. To optimize performance, it might be advisable to combine collection ads with discount offers, enhancing awareness while driving immediate action, and to allocate more budget toward discount campaigns, especially on platforms like Pinterest, where users are more likely to convert.
 
 _**Time Series**_
 
-Given the lack of variations in key metrics across different days of the week, a detailed analysis of monthly trends was sufficient to identify patterns that could enhance marketing campaigns. The summer campaign, despite having the fewest impressions and clicks from June to August, achieved the highest Conversion Rate (CVR) and Return on Investment (ROI) with lower spending, while the more expensive campaigns from September to November resulted in the highest impressions and clicks but the lowest CVR and ROI
+Given the lack of variations in key metrics across different days of the week, a detailed analysis of monthly trends was sufficient to identify campaign patterns. The summer campaign, despite having the fewest impressions and clicks from June to August, achieved the highest Conversion Rate (CVR) and Return on Investment (ROI) with lower spending, while the more expensive campaigns from September to November resulted in the highest impressions and clicks but the lowest CVR and ROI
 
