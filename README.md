@@ -24,7 +24,8 @@ The report enables users to explore metric impacts and category-specific data (c
 
 **Analysis, Insights and Recommendations.**
 
-For detailed insights and recommendations, (link to Medium).
+For detailed insights and recommendations, https://medium.com/@orinamhe.agbadua_88832/optimizing-marketing-campaign-performance-through-data-analysis-8885747f21d1
+
 
 **_Correlations between key metrics_**
 
