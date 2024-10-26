@@ -13,8 +13,9 @@ A fictional company has run multiple marketing campaigns across to promote its p
 
 The dataset in a CSV file format, comprised 18 columns with 9,900 rows. The CSV file was imported into MS SQL Server for cleaning, manipulation and exploratory analysis. 
 
-Find detailed sql queries in the repository. 
-After exploratory analysis, dataset was aggregated and exported to Power BI for visualization and report. 
+Find detailed sql queries for exploratory data analysis in the repository. 
+
+After exploratory analysis, dataset was exported to Power BI via the SQL Server connection for visualization and report. 
 
 ![image](https://github.com/user-attachments/assets/61aee0ab-690e-4bb5-a092-839f3bed4d47)
 
