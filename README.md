@@ -7,7 +7,7 @@ Campaign performance analysis is the structured evaluation of marketing campaign
 
 **Project Overview**
 
-A fictional company has run multiple marketing campaigns across to promote its products, and has collected detailed data on daily ad performance, covering several metrics. The goal of this project is to analyze the data to evaluate campaign effectiveness, optimize advertising costs, and enhance future marketing strategies by identifying performance trends over time.
+A fictitious company has run multiple marketing campaigns across to promote its products, and has collected detailed data on daily ad performance, covering several metrics. The goal of this project is to analyze the data to evaluate campaign effectiveness, optimize advertising costs, and enhance future marketing strategies by identifying performance trends over time.
 
 **Data Description, Analysis, Insights and Recommendations.**
 
